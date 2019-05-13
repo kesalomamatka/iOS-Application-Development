@@ -14,3 +14,6 @@ This exercises teaches you the basics of the Swift programming language. Swift i
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
 https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
+
+Implicitly Unwrapped Optionals && Optional Binding
+https://stackoverflow.com/questions/25846561/printing-optional-variable
