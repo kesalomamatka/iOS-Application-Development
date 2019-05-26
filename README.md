@@ -2,7 +2,7 @@
 
 ## Objectives and course contents
 The student understands the basics of the mobile programming in Apple's iOS environment.
-The student can design, implement and publish mobile applications for iOS devices.
+The student can design, implement and publish mobile applications for iOS devices. 
 The course contains lectures, exercises and research assignment.
 
 ## Notice
